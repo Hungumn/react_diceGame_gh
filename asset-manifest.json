@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_diceGame_gh/static/css/main.4c48ff7b.css",
+    "main.js": "/react_diceGame_gh/static/js/main.7c8f6833.js",
+    "static/js/787.73314f72.chunk.js": "/react_diceGame_gh/static/js/787.73314f72.chunk.js",
+    "static/media/Pony.ttf": "/react_diceGame_gh/static/media/Pony.99ddd1e5ee531d1eb8a2.ttf",
+    "static/media/bgGame.png": "/react_diceGame_gh/static/media/bgGame.e49605597dae0136a330.png",
+    "index.html": "/react_diceGame_gh/index.html",
+    "main.4c48ff7b.css.map": "/react_diceGame_gh/static/css/main.4c48ff7b.css.map",
+    "main.7c8f6833.js.map": "/react_diceGame_gh/static/js/main.7c8f6833.js.map",
+    "787.73314f72.chunk.js.map": "/react_diceGame_gh/static/js/787.73314f72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c48ff7b.css",
+    "static/js/main.7c8f6833.js"
+  ]
+}
