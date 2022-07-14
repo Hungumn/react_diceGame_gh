@@ -27,7 +27,7 @@ class GameXucSac extends Component {
                         } className='btnGame'>XỈU</button>
                     </div>
                 </div>
-                <div className='ThongTinGame text-center mt-5'>
+                <div className='ThongTinGame text-center'>
                     <ThongTinGame />
                     <button onClick={()=>{
                         this.props.playGame()
